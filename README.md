@@ -9,22 +9,20 @@ class Parth:
 
     def __str__(self):
         return f"{self.role} with {self.experience}, skilled in {', '.join(self.tools)}"
-```
+````
 
----
 
 ## 📊 Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthsarkhelia&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsarkhelia&layout=compact&theme=dark&hide_border=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsarkhelia&layout=compact&theme=dark&hide_border=true&count_private=true"/> -->
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=parthsarkhelia&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=parthsarkhelia&theme=dark&hide_border=true&count_private=true"/>
 </div>
 
----
 
 ## 🧰 Tech Stack
 
@@ -32,7 +30,6 @@ class Parth:
   <img src="https://skillicons.dev/icons?i=go,python,mongodb,postgresql,redis,docker,git,aws,ai&theme=dark"/>
 </p>
 
----
 
 ## 📢 Connect with Me
 
