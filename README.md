@@ -14,14 +14,28 @@ class Parth:
 
 ## 📊 Stats
 
-<div align="center">
-  <img height="180em" width="495" src="https://github-readme-stats-git-master-parthsarkhelias-projects.vercel.app/api?username=parthsarkhelia&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="495" src="https://github-readme-stats-git-master-parthsarkhelias-projects.vercel.app/api/top-langs/?username=parthsarkhelia&layout=compact&theme=dark&hide_border=true&count_private=true"/>
-</div>
+<table align="center" cellpadding="0" cellspacing="10">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats-git-master-parthsarkhelias-projects.vercel.app/api?username=parthsarkhelia&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
+        width="450" height="180" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats-git-master-parthsarkhelias-projects.vercel.app/api/top-langs/?username=parthsarkhelia&layout=compact&theme=dark&hide_border=true&count_private=true" 
+        width="450" height="180" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img 
+        src="https://streak-stats.demolab.com?user=parthsarkhelia&theme=dark&hide_border=true&count_private=true" 
+        width="920" height="180" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img height="180em" width="495" src="https://streak-stats.demolab.com?user=parthsarkhelia&theme=dark&hide_border=true&count_private=true"/>
-</div>
 
 
 ## 🧰 Tech Stack
