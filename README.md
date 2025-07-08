@@ -20,7 +20,7 @@ class Parth:
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-parthsarkhelias-projects.vercel.app/?user=parthsarkhelia&theme=dark&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=parthsarkhelia&theme=dark&hide_border=true&count_private=true"/>
 </div>
 
 
