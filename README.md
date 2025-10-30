@@ -27,13 +27,13 @@ class Parth:
         width="450" height="180" alt="Top Languages" />
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td colspan="2" align="center">
       <img 
         src="https://streak-stats.demolab.com?user=parthsarkhelia&theme=dark&hide_border=true&count_private=true" 
         width="920" height="180" alt="Streak Stats" />
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 
