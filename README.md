@@ -21,29 +21,6 @@ class Parth:
 I pair implementation with design notes, runbooks and failure-mode tests, so other engineers can
 change and operate the system safely.
 
-## 📊 Stats
-
-<table align="center" cellpadding="0" cellspacing="10">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats-git-master-parthsarkhelias-projects.vercel.app/api?username=parthsarkhelia&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-        width="450" height="180" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats-git-master-parthsarkhelias-projects.vercel.app/api/top-langs/?username=parthsarkhelia&layout=compact&theme=dark&hide_border=true&count_private=true"
-        width="450" height="180" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,ts,aws,docker,kafka,postgres,mongodb,redis,elasticsearch,grafana,prometheus&theme=dark"/>
-</p>
-
 ## 🚀 Projects
 
 **[jewelstudio](https://github.com/parthsarkhelia/jewelstudio)** — full-stack 3D platform.
@@ -51,6 +28,12 @@ FastAPI · Celery · Redis · MinIO · PostgreSQL · Next.js. Async pipeline run
 and thumbnail generation off the request path.
 
 *Most of my work is in private repositories — the public repos here are a subset.*
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,ts,aws,docker,kafka,postgres,mongodb,redis,elasticsearch,grafana,prometheus&theme=dark"/>
+</p>
 
 ## 📢 Connect
 
