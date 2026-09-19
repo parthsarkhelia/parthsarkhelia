@@ -4,7 +4,8 @@ Senior software engineer working on **backend systems** and **platform engineeri
 
 I build production services in Go and Python on AWS — mostly at the boundary where a system depends on
 someone else’s and has to stay up anyway. Third-party integrations, failure recovery, observability,
-and the release tooling to operate them.
+and the release tooling to operate them. I pair implementation with design notes, runbooks and 
+failure-mode tests, so other engineers can change and operate the system safely.
 
 ```python
 class Parth:
@@ -18,8 +19,6 @@ class Parth:
         return f"{self.role} — {' · '.join(self.focus)}"
 ```
 
-I pair implementation with design notes, runbooks and failure-mode tests, so other engineers can
-change and operate the system safely.
 
 ## 🚀 Projects
 
