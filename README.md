@@ -41,6 +41,9 @@ and thumbnail generation off the request path.
   <a href="https://www.linkedin.com/in/parthsarkhelia" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
+  <a href="https://x.com/mrparth23" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
   <a href="mailto:parthsarkhelia@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
