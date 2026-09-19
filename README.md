@@ -19,15 +19,6 @@ class Parth:
         return f"{self.role} — {' · '.join(self.focus)}"
 ```
 
-
-## 🚀 Projects
-
-**[jewelstudio](https://github.com/parthsarkhelia/jewelstudio)** — full-stack 3D platform.
-FastAPI · Celery · Redis · MinIO · PostgreSQL · Next.js. Async pipeline runs mesh conversion
-and thumbnail generation off the request path.
-
-*Most of my work is in private repositories — the public repos here are a subset.*
-
 ## 🧰 Tech Stack
 
 <p align="center">
